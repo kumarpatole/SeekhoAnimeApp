@@ -1,4 +1,4 @@
-package com.kiran.animeapp
+package com.kumar.seekhoanimeapp
 
 import android.app.Application
 import android.content.Context

@@ -18,6 +18,6 @@ class ExampleInstrumentedTest {
     @Test
     fun useAppContext() {
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.kiran.animeapp", appContext.packageName)
+        assertEquals("com.kumar.seekhoanimeapp", appContext.packageName)
     }
 }

@@ -1,13 +1,10 @@
-// In: src/androidTest/kotlin/com/kiran/animeapp/NavigationTest.kt
-
-package com.kiran.animeapp
+package com.kumar.seekhoanimeapp
 
 import androidx.compose.ui.test.assertIsDisplayed
 import androidx.compose.ui.test.junit4.createAndroidComposeRule
 import androidx.compose.ui.test.onAllNodesWithText
 import androidx.compose.ui.test.onNodeWithText
 import androidx.compose.ui.test.performClick
-import com.kiran.animeapp.MainActivity
 import dagger.hilt.android.testing.HiltAndroidRule
 import dagger.hilt.android.testing.HiltAndroidTest
 import org.junit.Rule
