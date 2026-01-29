@@ -82,13 +82,13 @@ This project goes beyond a basic API app to reflect real-world engineering pract
 ## 📸 App Screenshots
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/kumarpatole/SeekhoAnimeApp/main/screenshots/home.png" width="220" />
-  <img src="https://raw.githubusercontent.com/kumarpatole/SeekhoAnimeApp/main/screenshots/detail.png" width="220" />
-  <img src="https://raw.githubusercontent.com/kumarpatole/SeekhoAnimeApp/main/screenshots/favorite.png" width="220" />
+  <img src="https://raw.githubusercontent.com/kumarpatole/SeekhoAnimeApp/screenshots/home.png" width="220" />
+  <img src="https://raw.githubusercontent.com/kumarpatole/SeekhoAnimeApp/screenshots/detail.png" width="220" />
+  <img src="https://raw.githubusercontent.com/kumarpatole/SeekhoAnimeApp/screenshots/favorite.png" width="220" />
 </p>
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/kumarpatole/SeekhoAnimeApp/main/screenshots/emptyfav.png" width="220" />
-  <img src="https://raw.githubusercontent.com/kumarpatole/SeekhoAnimeApp/main/screenshots/about.png" width="220" />
+  <img src="https://raw.githubusercontent.com/kumarpatole/SeekhoAnimeApp/screenshots/emptyfav.png" width="220" />
+  <img src="https://raw.githubusercontent.com/kumarpatole/SeekhoAnimeApp/screenshots/about.png" width="220" />
 </p>
 
